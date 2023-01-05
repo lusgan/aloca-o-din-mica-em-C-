@@ -1,1 +1,1 @@
-# aloca-o-din-mica-em-C-
+exercício de alocação dinâmica em C
